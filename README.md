@@ -28,6 +28,7 @@ The project demonstrates a multi-turn, image-grounded medical assistant capable 
 │
 ├── README.md
 └── requirements.txt
+both ipynb and py files are uploaded
 
 🔍 Project Overview
 Objective
