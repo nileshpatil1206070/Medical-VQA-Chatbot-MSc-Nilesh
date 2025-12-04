@@ -1,7 +1,10 @@
 # Medical-VQA-Chatbot-MSc-Nilesh
 Note:
 
-please see all the screenshots in .png or jpg format - they are output of gradio GUI
+1.please see all the screenshots in .png or jpg format - they are output of gradio GUI
+2.both ipynb and py files are uploaded in project root folder
+
+Start from here:
 
 multi-turn medical VQA system that integrates open-source vision-language and language models to perform image-based question answering, conversational reasoning, clinical summarisation, and diagnostic suggestion.
 Medical Visual Question Answering (Med-VQA) System — Multi-Model Pipeline
@@ -32,7 +35,7 @@ The project demonstrates a multi-turn, image-grounded medical assistant capable 
 │
 ├── README.md
 └── requirements.txt
-both ipynb and py files are uploaded
+
 
 🔍 Project Overview
 Objective
