@@ -1,4 +1,8 @@
 # Medical-VQA-Chatbot-MSc-Nilesh
+Note:
+
+please see all the screenshots in .png or jpg format - they are output of gradio GUI
+
 multi-turn medical VQA system that integrates open-source vision-language and language models to perform image-based question answering, conversational reasoning, clinical summarisation, and diagnostic suggestion.
 Medical Visual Question Answering (Med-VQA) System — Multi-Model Pipeline
 
