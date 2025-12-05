@@ -2,7 +2,10 @@
 Note:
 
 1.please see all the screenshots in .png or jpg format - they are output of gradio GUI
+
 2.both ipynb and py files are uploaded in project root folder
+
+3. some files changed as api key was used - it was shown in code, because of chatgpt api disable notification
 
 Start from here:
 
