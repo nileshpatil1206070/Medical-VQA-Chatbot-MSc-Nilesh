@@ -20,7 +20,7 @@ import io
 # ===========================
 # SETUP GEMINI CLIENT
 # ===========================
-API_KEY = "AIzaSyB8gUBr7CVGHViXVIfXBOku8nGd7djcY4I"
+API_KEY = "AIzaSyB8gUBr7CVGHViXVIfXBOku8nGd7apimodifieddjcY4I"
 client = genai.Client(api_key=API_KEY)
 
 # ===========================
